@@ -1,0 +1,40 @@
+{
+  "name": "easiest-application",
+  "version": "4.3.6",
+  "description": "The official Repository for the Easiest Application Discord Bot, which allows you to make the Easiest Application Systems possible! 100% ADVANCED",
+  "main": "shard.js",
+  "dependencies": {
+    "enmap": "^5.8.4",
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milrato-Development/Easiest-Application.git"
+  },
+  "keywords": [
+    "application",
+    "apply",
+    "discord",
+    "bot",
+    "discordjs",
+    "developer",
+    "Milrato",
+    "easy",
+    "easiest",
+    "advanced",
+    "good",
+    "fast",
+    "emojis",
+    "reactions"
+  ],
+  "author": "Tomato#6966",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Milrato-Development/Easiest-Application/issues"
+  },
+  "homepage": "https://milrato.eu"
+}
