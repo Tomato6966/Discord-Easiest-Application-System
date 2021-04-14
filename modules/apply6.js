@@ -21,7 +21,7 @@ const cooldown = new Set();
 module.exports = client => {
 
   //define the apply system variable
-  let apply_db = client.apply;
+  let apply_db = client.apply6
 
   //once a reaction is added this will fire
   client.on("messageReactionAdd", async (reaction, user) => {
