@@ -1016,7 +1016,7 @@ module.exports = client => {
     🟢 **==** **Set** a new **Application Channel**
     🔵 **==** **Set** a new __finished__ **Applications Channel**
 
-    ✋ **== ${apply_for_here.get(message.guild.id, "last_verify") ? "Enabled Last Verification": "Disabled Last Verification"}**
+    ✋ **== ${apply_for_here.get(message.guild.id, "last_verify") ? "Disable Last Verification" : "Enable Last Verification"}**
     `
                   )
                   .setFooter(`${client.user.username} | powered by: milrato.eu`, client.user.displayAvatarURL()))
@@ -2932,7 +2932,7 @@ module.exports = client => {
       .setColor("#fcfc03")
       .setTitle("These are all cmds!")
       .setURL("https://youtu.be/X2yqNtd3COE")
-      .setDescription(`PREFIX: \`${prefix}\` | [Click here - Tutorial Video](https://youtu.be/X2yqNtd3COE)`)
+      .setDescription(`PREFIX: \`${config.prefix}\` | [Click here - Tutorial Video](https://youtu.be/X2yqNtd3COE)`)
       .addField(`\`help\``, "Shows all available Commands!", true)
       .addField(`\`add\``, "> *[Invite](https://discord.com/api/oauth2/authorize?client_id=806086994031411221&permissions=8&scope=bot%20applications.commands) the Bot!*", true)
       .addField(`\`support\``, "> *Sends you a Link for the [SUPPORT SERVER](https://discord.gg/wvCp7q88G3) of the Bot!*", true)
