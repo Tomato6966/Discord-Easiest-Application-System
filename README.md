@@ -1,5 +1,4 @@
 # Easiest Application System
-**Note this Discord Bot Repository is the Same as for the Public Bot [Easiest Application Bot](https://discord.com/api/oauth2/authorize?client_id=806086994031411221&permissions=8&scope=bot%20applications.commands) if u want to support me, then please [invite](https://discord.com/api/oauth2/authorize?client_id=806086994031411221&permissions=8&scope=bot%20applications.commands) him!**
 
 
 
